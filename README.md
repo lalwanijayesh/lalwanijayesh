@@ -17,18 +17,21 @@ I am a software engineer, back to school for an advanced study in Computer Scien
 - ⚡ Fun fact: Tea ☕ gives me superpowers
 - 😄 Pronouns: He/Him/His
 
-<p align="center">
-<br/>
+<p align="left">
+<br/> 
 <a href="https://twitter.com/lalwanijayesh09" target="_blank">
-  <img alt="Jayesh's Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  Twitter
 </a>
-<a href="https://www.facebook.com/lalwanijayesh" target="_blank">
-  <img alt="Jayesh's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
-</a>
-<a href="https://www.instagram.com/lalwanijayesh" target="_blank">
-  <img alt="Jayesh's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
+|
 <a href="https://www.linkedin.com/in/lalwanijayesh" target="_blank">
-  <img alt="Jayesh's LinkdeIn" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  LinkedIn
+</a>
+|
+<a href="https://www.facebook.com/lalwanijayesh" target="_blank">
+  Facebook
+</a>
+|
+<a href="https://www.instagram.com/lalwanijayesh" target="_blank">
+  Instagram
 </a>
 </p>
